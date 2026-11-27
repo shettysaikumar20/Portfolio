@@ -171,7 +171,7 @@ export default function CaseStudyModal({ projectId, onClose, onOpenCertificate }
                     🥉 Third Prize – VBIT Real-Time Research Project Competition
                   </h4>
                   <p className="text-xs text-slate-300 mt-1">
-                    Guided by <strong className="text-amber-200">Dr. K. Kalaiwani</strong>, Department of Information Technology, Vignana Bharathi Institute of Technology.
+                    Guided by <strong className="text-amber-200">Dr. K. Kalaivani</strong>, Department of Information Technology (vITarka), Vignana Bharathi Institute of Technology.
                   </p>
                 </div>
                 <button

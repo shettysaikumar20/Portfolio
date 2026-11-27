@@ -186,7 +186,7 @@ export default function Projects({ onOpenCaseStudy, onOpenCertificate }) {
 
               {/* Summary */}
               <p className="text-slate-300 text-sm leading-relaxed mb-6">
-                Awarded <strong className="text-amber-300">Third Prize</strong> in the VBIT Real-Time Research Project competition under the guidance of <strong className="text-white">Dr. K. Kalaiwani</strong>. Combines Node.js web services with Google Gemini Vision AI to streamline electronic waste collection, worker task tracking, and recycling center discovery.
+                Awarded <strong className="text-amber-300">Third Prize</strong> in the VBIT Real-Time Research Project competition under the guidance of <strong className="text-white">Dr. K. Kalaivani</strong>. Combines Node.js web services with Google Gemini Vision AI to streamline electronic waste collection, worker task tracking, and recycling center discovery.
               </p>
 
               {/* Key Features */}

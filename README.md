@@ -28,17 +28,17 @@ Hands-on track record designing and shipping production-grade full-stack applica
 
 <table width="100%">
 <tr>
-<td width="60%">
+<td width="55%">
 
 ### 🥉 THIRD PRIZE — Real-Time Research Project
 **Project Title**: *E-Waste Management System*  
 **Institution**: Vignana Bharathi Institute of Technology (VBIT)  
-**Department**: Department of Information Technology  
-**Project Guide**: Dr. K. Kalaiwani  
+**Department**: Department of Information Technology (vITarka)  
+**Mentors & Coordinators**: Dr. K. Kalaivani (HOD, IT), Ms P. Sony, Mr P. Shiva Kumar, Dr. P.V.S. Srinivas (Principal-VBIT)  
 **Recognition**: Official *Certificate of Appreciation*  
 
-> **Official Citation**:  
-> *"Secured Third Prize in the Real-Time Research Project competition at Vignana Bharathi Institute of Technology for developing an E-Waste Management System integrating web technologies and Google Gemini AI. The project focuses on simplifying e-waste collection, improving pickup coordination, and helping users identify appropriate recycling facilities."*
+> **Official Certificate Text**:  
+> *"This is to proudly certify that Shetty sai kumar. of II B.Tech, has successfully completed their Real-time Research Project on E-waste management under the guidance of Dr. K. Kalaivani and has secured THIRD PRIZE."*
 
 **Core System Innovations**:
 - **Customer Appointment Booking**: Seamless scheduling for door-to-door electronic waste pickup.
@@ -48,27 +48,13 @@ Hands-on track record designing and shipping production-grade full-stack applica
 - **Hyderabad E-Waste Center Matching**: Connects citizens with authorized state pollution control board (TSPCB) registered recyclers across Hyderabad.
 
 </td>
-<td width="40%" align="center">
+<td width="45%" align="center">
 
-```
-┌──────────────────────────────────────────────┐
-│  VIGNANA BHARATHI INSTITUTE OF TECHNOLOGY    │
-│    DEPARTMENT OF INFORMATION TECHNOLOGY      │
-│                                              │
-│          CERTIFICATE OF APPRECIATION         │
-│                                              │
-│       This is to certify that                │
-│         MR. SAI KUMAR SHETTY                 │
-│       has secured THIRD PRIZE in the         │
-│        Real-Time Research Project for        │
-│                                              │
-│        "E-WASTE MANAGEMENT SYSTEM"           │
-│                                              │
-│    Under the guidance of Dr. K. Kalaiwani    │
-│                                              │
-│  [ Guide Sign ]       [ SEAL ]   [ HOD Sign ]│
-└──────────────────────────────────────────────┘
-```
+<a href="./assets/vbit-certificate.jpg">
+  <img src="./assets/vbit-certificate.jpg" alt="VBIT Certificate of Appreciation - 3rd Prize Real-Time Research Project on E-Waste Management" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.15);" />
+</a>
+<br/>
+<sub><i>Official Certificate of Appreciation awarded by VBIT Dept. of Information Technology</i></sub>
 
 </td>
 </tr>

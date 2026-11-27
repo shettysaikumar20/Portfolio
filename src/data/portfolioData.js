@@ -30,7 +30,7 @@ export const educationData = [
     status: "Final Year · Expected May 2027",
     note: "Joined through lateral entry after completing Diploma with academic excellence.",
     highlights: [
-      "Secured 3rd Prize in VBIT Real-Time Research Project for 'E-Waste Management System' under Dr. K. Kalaiwani.",
+      "Secured 3rd Prize in VBIT Real-Time Research Project for 'E-Waste Management System' under Dr. K. Kalaivani.",
       "Core coursework: Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Web Technologies, Computer Networks, Operating Systems, Information Security.",
       "Active participant in Smart India Hackathon (Team Amogha) and national coding challenges."
     ]
@@ -240,8 +240,8 @@ export const projectsData = [
     awardDetails: {
       title: "THIRD PRIZE – Real-Time Research Project",
       institution: "Vignana Bharathi Institute of Technology (VBIT)",
-      department: "Department of Information Technology",
-      guide: "Dr. K. Kalaiwani",
+      department: "Department of Information Technology (vITarka)",
+      guide: "Dr. K. Kalaivani",
       recognition: "Certificate of Appreciation awarded for excellence in socially impactful applied research and web development.",
       date: "VBIT Academic Research Exhibition"
     },
@@ -372,7 +372,7 @@ export const achievementsData = [
     date: "Academic Year 2024–2025",
     organization: "Vignana Bharathi Institute of Technology (VBIT)",
     department: "Department of Information Technology",
-    guide: "Dr. K. Kalaiwani",
+    guide: "Dr. K. Kalaivani",
     isFeatured: true,
     certificateAvailable: true,
     description: "Secured Third Prize in the Real-Time Research Project competition at Vignana Bharathi Institute of Technology for conceptualizing and developing an E-Waste Management System integrating modern web technologies and Google Gemini AI. The project focuses on simplifying e-waste collection, improving pickup coordination, and helping citizens in Hyderabad identify authorized recycling facilities.",

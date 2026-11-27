@@ -77,7 +77,7 @@ export default function Achievements({ onOpenCertificate }) {
                       Institution: <span className="text-white font-medium">Vignana Bharathi Institute of Technology (VBIT)</span>
                     </p>
                     <p className="text-slate-400">
-                      Department: <span className="text-slate-200">Department of Information Technology</span> · Guide: <span className="text-amber-200">Dr. K. Kalaiwani</span>
+                      Department: <span className="text-slate-200">Department of Information Technology (vITarka)</span> · Mentors: <span className="text-amber-200">Dr. K. Kalaivani (HOD, IT)</span>
                     </p>
                   </div>
 
@@ -118,66 +118,19 @@ export default function Achievements({ onOpenCertificate }) {
                 <div className="lg:col-span-5">
                   <div 
                     onClick={onOpenCertificate}
-                    className="cursor-pointer group relative rounded-2xl bg-gradient-to-b from-[#251f12] to-[#120f08] border-2 border-amber-500/60 p-5 shadow-2xl transition-all duration-300 hover:scale-[1.02] hover:border-amber-400"
+                    className="cursor-pointer group relative rounded-2xl bg-gradient-to-b from-[#251f12] to-[#120f08] border-2 border-amber-500/60 p-4 sm:p-5 shadow-2xl transition-all duration-300 hover:scale-[1.02] hover:border-amber-400"
                   >
-                    {/* Simulated High-Fidelity Certificate Card Preview */}
-                    <div className="relative rounded-xl bg-[#fffdf7] text-slate-900 p-6 shadow-inner border border-amber-600/30 overflow-hidden">
-                      {/* Watermark Logo */}
-                      <div className="absolute inset-0 flex items-center justify-center opacity-5 pointer-events-none">
-                        <GraduationCap className="w-48 h-48 text-amber-900" />
-                      </div>
-
-                      {/* Header */}
-                      <div className="text-center border-b border-amber-800/20 pb-3 mb-3">
-                        <div className="text-[10px] font-bold tracking-widest uppercase text-amber-900 font-serif">
-                          Vignana Bharathi Institute of Technology
-                        </div>
-                        <div className="text-[8px] uppercase tracking-wider text-slate-600 font-sans">
-                          Department of Information Technology
-                        </div>
-                        <div className="text-xs font-serif font-black text-amber-950 mt-1 uppercase tracking-wider">
-                          Certificate of Appreciation
-                        </div>
-                      </div>
-
-                      {/* Certificate Text Body */}
-                      <div className="text-center space-y-1.5 my-3">
-                        <p className="text-[9px] text-slate-700 italic">
-                          This is to certify that
-                        </p>
-                        <p className="text-sm font-bold font-serif text-slate-900 border-b border-dashed border-slate-400 inline-block px-4 pb-0.5">
-                          Mr. Sai Kumar Shetty
-                        </p>
-                        <p className="text-[8.5px] text-slate-700 leading-tight">
-                          has secured <strong className="text-amber-900 font-bold">THIRD PRIZE</strong> in the Real-Time Research Project for
-                        </p>
-                        <p className="text-[10px] font-bold text-slate-900 font-mono">
-                          "E-Waste Management System"
-                        </p>
-                        <p className="text-[8px] text-slate-600">
-                          under the guidance of <span className="font-semibold text-slate-800">Dr. K. Kalaiwani</span>
-                        </p>
-                      </div>
-
-                      {/* Seal and Signatures */}
-                      <div className="flex items-center justify-between pt-3 mt-2 border-t border-amber-800/20 text-[7px] text-slate-600 uppercase">
-                        <div className="text-center">
-                          <div className="h-4 border-b border-slate-400 mb-0.5"></div>
-                          <span>Dr. K. Kalaiwani<br />Project Guide</span>
-                        </div>
-                        <div className="w-8 h-8 rounded-full border-2 border-amber-700/60 bg-amber-100 flex items-center justify-center text-[7px] font-bold text-amber-900 font-serif shadow-sm">
-                          SEAL
-                        </div>
-                        <div className="text-center">
-                          <div className="h-4 border-b border-slate-400 mb-0.5"></div>
-                          <span>Head of Dept.<br />IT Dept, VBIT</span>
-                        </div>
-                      </div>
-
+                    {/* Official Scanned Certificate Image */}
+                    <div className="relative rounded-xl overflow-hidden shadow-2xl border border-amber-500/50 bg-[#0d1322]">
+                      <img 
+                        src="./assets/vbit-certificate.jpg" 
+                        alt="VBIT 3rd Prize Certificate of Appreciation - Shetty Sai Kumar" 
+                        className="w-full h-auto object-cover rounded-xl transition-transform duration-300 group-hover:scale-[1.01]" 
+                      />
                       {/* Hover Overlay */}
                       <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center backdrop-blur-[2px]">
                         <span className="px-3.5 py-1.5 rounded-lg bg-amber-400 text-slate-950 font-bold text-xs flex items-center gap-1.5 shadow-lg">
-                          <Eye className="w-4 h-4" /> Click to Enlarge Certificate
+                          <Eye className="w-4 h-4" /> Click to Enlarge Official Certificate
                         </span>
                       </div>
                     </div>
@@ -185,7 +138,7 @@ export default function Achievements({ onOpenCertificate }) {
                     <div className="mt-3 text-center">
                       <span className="text-[11px] font-mono text-amber-300/90 flex items-center justify-center gap-1.5">
                         <Sparkles className="w-3.5 h-3.5 text-amber-400" />
-                        Click to view full certificate & print/save
+                        Click to view full high-res certificate & print/save
                       </span>
                     </div>
 

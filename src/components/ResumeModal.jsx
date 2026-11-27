@@ -117,7 +117,7 @@ export default function ResumeModal({ isOpen, onClose }) {
                 <div className="p-2.5 rounded-xl bg-amber-950/20 border border-amber-800/30 print:bg-amber-50 print:border-amber-200">
                   <strong className="text-white print:text-black">🥉 THIRD PRIZE – Real-Time Research Project (VBIT, IT Dept)</strong>
                   <p className="text-slate-300 print:text-slate-700 text-xs mt-0.5">
-                    Project: <em>E-Waste Management System</em> (Node.js + Google Gemini AI). Guided by Dr. K. Kalaiwani. Certificate of Appreciation awarded.
+                    Project: <em>E-Waste Management System</em> (Node.js + Google Gemini AI). Guided by Dr. K. Kalaivani (HOD, IT). Certificate of Appreciation awarded.
                   </p>
                 </div>
                 <div className="p-2.5 rounded-xl bg-slate-900/60 border border-slate-800 print:bg-slate-50 print:border-slate-200">

@@ -4,6 +4,7 @@ export const personalInfo = {
   subheading: "Final-year Information Technology engineer building intelligent, secure, and production-ready applications with modern web stacks and autonomous AI systems.",
   location: "Hyderabad, Telangana, India",
   email: "shettysaikumar20@gmail.com",
+  portfolioUrl: "https://portfolio-4xxj.onrender.com/",
   github: "https://github.com/shettysaikumar20",
   linkedin: "https://www.linkedin.com/in/shetty-sai-kumar/",
   status: "Open to opportunities",

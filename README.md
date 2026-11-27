@@ -3,7 +3,8 @@
 # ⚡ Sai Kumar Shetty
 ### **Software Engineer | Full-Stack Developer | AI & Cybersecurity Enthusiast**
 
-[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Showcase_Website-Visit_Portfolio-2563eb?style=for-the-badge)](https://shettysaikumar20.github.io/Portfolio/)
+[![Live Portfolio (Render)](https://img.shields.io/badge/🌐_Live_Website-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://portfolio-4xxj.onrender.com/)
+[![GitHub Pages Mirror](https://img.shields.io/badge/Mirror-GitHub_Pages-22272e?style=for-the-badge&logo=github)](https://shettysaikumar20.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shetty-sai-kumar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/shettysaikumar20)
 [![Email](https://img.shields.io/badge/Email-shettysaikumar20%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:shettysaikumar20@gmail.com)
@@ -174,7 +175,8 @@ I am actively open to discussing software engineering internships, full-time SDE
 - **Email**: [shettysaikumar20@gmail.com](mailto:shettysaikumar20@gmail.com)
 - **LinkedIn**: [linkedin.com/in/shetty-sai-kumar](https://www.linkedin.com/in/shetty-sai-kumar/)
 - **GitHub**: [github.com/shettysaikumar20](https://github.com/shettysaikumar20)
-- **Live Portfolio Website**: [shettysaikumar20.github.io/Portfolio](https://shettysaikumar20.github.io/Portfolio/)
+- **Live Portfolio (Render)**: [portfolio-4xxj.onrender.com](https://portfolio-4xxj.onrender.com/)
+- **Mirror (GitHub Pages)**: [shettysaikumar20.github.io/Portfolio](https://shettysaikumar20.github.io/Portfolio/)
 
 ---
 

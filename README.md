@@ -1,160 +1,197 @@
-# Sai Kumar Shetty — Professional Developer Portfolio
+<div align="center">
 
-A production-quality personal portfolio website engineered with **React 19**, **Vite**, **Tailwind CSS**, and **Lucide Icons** highlighting strengths in **Full-Stack Software Engineering**, **Applied AI Systems**, and **Cybersecurity**.
+# ⚡ Sai Kumar Shetty
+### **Software Engineer | Full-Stack Developer | AI & Cybersecurity Enthusiast**
 
----
+[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Showcase_Website-Visit_Portfolio-2563eb?style=for-the-badge)](https://shettysaikumar20.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shetty-sai-kumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/shettysaikumar20)
+[![Email](https://img.shields.io/badge/Email-shettysaikumar20%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:shettysaikumar20@gmail.com)
 
-## 🌟 Key Features
-
-- **Flagship Project Showcase**:
-  - **AI-Powered Security Agent for Web Applications**: Detailed case study modal exploring the 149-test milestone, active OWASP probes (SQLi, XSS, SSRF, LFI, Command Injection), deterministic safety policy sandboxing, and CVSS severity reporting.
-  - **E-Waste Management System (3rd Prize Winner)**: Dedicated feature spotlight celebrating the **Third Prize in Real-Time Research Project** at Vignana Bharathi Institute of Technology (VBIT) under guide Dr. K. Kalaiwani, complete with an interactive official Certificate of Appreciation modal, confetti celebration, and an instant "Upload Scanned Certificate" feature.
-  - **Need-a-Help**: Live production study workspace with multi-LLM redundancy (Gemini API, Backboard AI, OpenRouter, Ollama) and KaTeX mathematical formula rendering.
-  - **LabelSure (SIH 2026)**: Legal Metrology regulatory compliance inspection tool with PaddleOCR and FastAPI.
-  - **FriendForge**: Voice-enabled AI study partner powered by Llama 3.1 8B and ElevenLabs speech synthesis.
-  - **Sai Web Studio**: High-converting web design studio showcasing production demos and tiered offerings.
-
-- **Verified Achievements & Honors**:
-  - 🥉 **3rd Prize** – Real-Time Research Project (VBIT Department of Information Technology)
-  - 🥇 **1st Place** – Hacktoberfest 2026 Hack Day Hyderabad (1st of 150+ software developers)
-  - ☁️ **Microsoft Azure Fundamentals (AZ-900)** Certification
-  - 🛡️ **Microsoft Applied Skills – Azure Management** (78% Score)
-  - 🧠 **Google Cloud Gen AI Academy – APAC Cohort 3**
-
-- **Interactive Capabilities**:
-  - **Certificate Modal**: Inspect the high-fidelity parchment certificate with seal and signatures, print/save as PDF, or upload a real photo scan with local persistence.
-  - **Interactive Resume Modal**: Print or save a clean, recruiter-friendly single/two-page resume with standard CSS print rules.
-  - **Working Skills Inventory**: Filterable and searchable capability matrix organized across 7 categories without artificial percentage bars.
-  - **Interactive Contact Form**: Direct pre-filled email client launcher (`mailto:`) with one-click copy fallback.
+<p align="center">
+  📍 <b>Hyderabad, Telangana, India</b> &nbsp;|&nbsp; 🟢 <b>Open to SDE / Full-Stack / Backend / AI & Security Opportunities</b>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+</div>
 
-- **Framework**: React.js 19
-- **Bundler & Tooling**: Vite 8 with `@tailwindcss/vite`
-- **Styling**: Tailwind CSS v4 (Deep dark theme `#060913`, electric blue, violet & cyan accents)
-- **Icons**: Lucide React + custom precision SVG brand icons
-- **Effects**: Canvas Confetti for awards celebration
+## 👨‍💻 Executive Summary
 
----
+Final-year **Information Technology** engineering student at **Vignana Bharathi Institute of Technology (VBIT)** with a multidisciplinary engineering foundation originating from an **Automobile Engineering Diploma** at Government Polytechnic College, Masab Tank. 
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (v18.0.0 or higher recommended)
-- `npm` or `pnpm` / `yarn`
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/shettysaikumar20/my-portfolio.git
-
-# Navigate into directory
-cd my-portfolio
-
-# Install dependencies
-npm install
-```
-
-### Development Server
-
-Start the local development server with Hot Module Replacement (HMR):
-
-```bash
-npm run dev
-```
-
-Visit `http://localhost:5173` in your browser.
-
-### Production Build
-
-Create an optimized production bundle in the `dist` folder:
-
-```bash
-npm run build
-```
-
-Preview the production build locally:
-
-```bash
-npm run preview
-```
+Hands-on track record designing and shipping production-grade full-stack applications, AI-driven autonomous systems, scalable backend APIs, and web application vulnerability assessment platforms. Focused on building practical, secure, high-performance software that solves real-world challenges.
 
 ---
 
-## 📁 Project Structure
+## 🏆 Featured Honors & Research Awards
+
+<table width="100%">
+<tr>
+<td width="60%">
+
+### 🥉 THIRD PRIZE — Real-Time Research Project
+**Project Title**: *E-Waste Management System*  
+**Institution**: Vignana Bharathi Institute of Technology (VBIT)  
+**Department**: Department of Information Technology  
+**Project Guide**: Dr. K. Kalaiwani  
+**Recognition**: Official *Certificate of Appreciation*  
+
+> **Official Citation**:  
+> *"Secured Third Prize in the Real-Time Research Project competition at Vignana Bharathi Institute of Technology for developing an E-Waste Management System integrating web technologies and Google Gemini AI. The project focuses on simplifying e-waste collection, improving pickup coordination, and helping users identify appropriate recycling facilities."*
+
+**Core System Innovations**:
+- **Customer Appointment Booking**: Seamless scheduling for door-to-door electronic waste pickup.
+- **Pickup Request & Live Service Tracking**: Transparent status telemetry for customers and field workers.
+- **Admin Dashboard**: Centralized route planning, task assignment, and collection operations.
+- **Gemini Multimodal AI Recognition**: Identifies hardware types, categorizes toxic materials, and evaluates recyclability index from uploaded photos.
+- **Hyderabad E-Waste Center Matching**: Connects citizens with authorized state pollution control board (TSPCB) registered recyclers across Hyderabad.
+
+</td>
+<td width="40%" align="center">
 
 ```
-my-portfolio/
-├── public/
-│   ├── assets/              # Static media & uploaded images
-│   └── favicon.svg          # Custom SVG favicon
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx           # Fixed blurred navigation header & mobile drawer
-│   │   ├── Hero.jsx             # Hero section with status pill & terminal snippet
-│   │   ├── StatsBanner.jsx      # Verified metrics & research award highlights
-│   │   ├── About.jsx            # Academic background & engineering philosophy
-│   │   ├── Skills.jsx           # Filterable & searchable skills matrix
-│   │   ├── Projects.jsx         # Flagship spotlights & project cards
-│   │   ├── Achievements.jsx     # VBIT 3rd Prize showcase & certifications
-│   │   ├── Experience.jsx       # Silver Star Mercedes-Benz internship timeline
-│   │   ├── Education.jsx        # B.Tech IT & Automobile Engineering Diploma
-│   │   ├── Contact.jsx          # Direct email & validated message form
-│   │   ├── Footer.jsx           # Links, copyright, and back-to-top button
-│   │   ├── CertificateModal.jsx # Fullscreen VBIT Certificate viewer
-│   │   ├── CaseStudyModal.jsx   # Deep dive architecture diagrams & flows
-│   │   ├── ResumeModal.jsx      # Recruiter-friendly printable resume
-│   │   └── Icons.jsx            # Precision GitHub & LinkedIn SVG components
-│   ├── data/
-│   │   └── portfolioData.js     # Single source of truth for all content & stats
-│   ├── App.jsx                  # Main root layout & modal state management
-│   ├── App.css                  # Print stylesheets & animations
-│   ├── index.css                # Tailwind imports & custom dark theme styles
-│   └── main.jsx                 # React root mount
-├── index.html                   # HTML entry point with Google Fonts
-├── vite.config.js               # Vite & Tailwind configuration
-├── package.json                 # Project scripts & dependencies
-└── README.md
+┌──────────────────────────────────────────────┐
+│  VIGNANA BHARATHI INSTITUTE OF TECHNOLOGY    │
+│    DEPARTMENT OF INFORMATION TECHNOLOGY      │
+│                                              │
+│          CERTIFICATE OF APPRECIATION         │
+│                                              │
+│       This is to certify that                │
+│         MR. SAI KUMAR SHETTY                 │
+│       has secured THIRD PRIZE in the         │
+│        Real-Time Research Project for        │
+│                                              │
+│        "E-WASTE MANAGEMENT SYSTEM"           │
+│                                              │
+│    Under the guidance of Dr. K. Kalaiwani    │
+│                                              │
+│  [ Guide Sign ]       [ SEAL ]   [ HOD Sign ]│
+└──────────────────────────────────────────────┘
 ```
+
+</td>
+</tr>
+</table>
+
+### Additional Key Accolades
+- 🥇 **1st Place Winner — Hacktoberfest 2026 Hack Day (Hyderabad)**: Ranked **1st out of 150+ software developers**; awarded Arduino UNO Q board and open-source honors.
+- 🎯 **Smart India Hackathon 2026 Project Finalist**: Team Amogha (*LabelSure Legal Metrology OCR & automated compliance inspection engine*).
+- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)** (Certified July 1, 2026).
+- 🛡️ **Microsoft Applied Skills: Azure Management** (Hands-on performance assessment score: **78%**).
+- 🧠 **Google Cloud Gen AI Academy — APAC Cohort 3** (Specialization in Cloud Run, Agent Dev Kit, BigQuery ML, and Gemma open models).
 
 ---
 
-## 🚢 Deployment Guide
+## 🚀 Flagship & Featured Projects Showcase
 
-### Deploying to Vercel (Recommended)
+### 1. 🛡️ AI-Powered Security Agent for Web Applications
+*Autonomous Vulnerability Assessment & Policy-Enforced AI Remediation Advisor*  
+**Tech Stack**: Python, FastAPI, React, Vite, SQLite, Claude AI Integration, Security Testing Plugins
 
-1. Push your code to a GitHub repository:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: Sai Kumar Shetty portfolio"
-   git remote add origin https://github.com/shettysaikumar20/portfolio.git
-   git branch -M main
-   git push -u origin main
-   ```
-2. Go to [Vercel](https://vercel.com) and click **"Add New Project"**.
-3. Select your GitHub repository.
-4. Framework Preset will automatically detect **Vite**.
-5. Click **Deploy**.
-
-### Deploying to Netlify
-
-1. Push your repository to GitHub.
-2. Sign in to [Netlify](https://netlify.com) and choose **"Add new site"** → **"Import an existing project"**.
-3. Select your repository.
-4. Set Build command to `npm run build` and Publish directory to `dist`.
-5. Click **Deploy site**.
+- **149 Passing Backend Tests Milestone**: Verified unit & integration test coverage across scanner pipelines, parsers, and policy sandbox rules.
+- **Multi-Vector Vulnerability Probes**: Heuristic detection for SQL Injection (SQLi), Reflected Cross-Site Scripting (XSS), Local File Inclusion (LFI), Server-Side Request Forgery (SSRF), and Command Injection.
+- **Reconnaissance & Fingerprinting Engine**: TCP port scanning, service identification, HTTP response header fingerprinting, and dynamic directory crawling.
+- **Policy-Validated AI Advisor**: Transforms raw probe anomalies into CVSS-scored remediation plans while enforcing strict deterministic safety bounds.
+- **Audit-Ready Reporting**: Automated export of standardized JSON and styled HTML audit logs.
 
 ---
 
-## 📬 Contact & Connect
+### 2. 📚 Need-a-Help — AI Notes Assistant
+*Intelligent Document Q&A Workspace with Multi-LLM Redundancy*  
+**Tech Stack**: React.js, Google Gemini API, Backboard AI, OpenRouter, Ollama (Local), Whisper, KaTeX  
+🔗 **[Live Production Web App](https://need-a-help.onrender.com)** &nbsp;|&nbsp; 💻 **[GitHub Repository](https://github.com/shettysaikumar20/need-a-help)**
 
-- **Name**: Sai Kumar Shetty
-- **Location**: Hyderabad, Telangana, India
+- Multi-format educational document upload (PDF, scans, text notes).
+- Context-aware RAG question answering over study materials.
+- High-availability multi-model redundancy (Gemini, OpenRouter, and local Ollama fallback).
+- LaTeX mathematical formula rendering with KaTeX and syntax-highlighted code snippets.
+
+---
+
+### 3. ⚖️ LabelSure — Smart India Hackathon 2026
+*Automated Legal Metrology Packaged Commodity Compliance Platform*  
+**Team**: Team Amogha &nbsp;|&nbsp; **Tech Stack**: React, Vite, Tailwind CSS, FastAPI, Python, SQLAlchemy, PostgreSQL, PaddleOCR
+
+- Automated parsing of MRP, net quantity, batch numbers, manufacturer details, and expiration dates from packaging photographs using PaddleOCR.
+- Algorithmic compliance validation detecting missing statutory declarations and font size violations.
+- Inspector dashboard with role-based access control (RBAC) and formal violation audit log generation.
+
+---
+
+### 4. 🎙️ FriendForge — Conversational AI Study Companion
+*Voice-Enabled Interactive Learning Partner*  
+**Tech Stack**: React, Backboard SDK, OpenRouter, Llama 3.1 8B, ElevenLabs Voice AI  
+💻 **[GitHub Repository](https://github.com/shettysaikumar20/FriendForge)**
+
+- End-to-end deployed audio-visual learning pipeline: User Query → Llama 3.1 8B context reasoning → ElevenLabs synthetic speech streaming → Browser audio playback.
+- Interactive study dashboard breaking complex technical coursework into conversational study chapters.
+
+---
+
+### 5. 🌐 Sai Web Studio — Digital Agency Platform
+*Client-Facing Web Development & Digital Showcase*  
+**Tech Stack**: HTML5, CSS3, JavaScript, Responsive UI/UX, SEO Architecture, WhatsApp Integration
+
+- Live interactive showcase featuring 4 distinct production template demos: EduPrime (Education), FitCore (Fitness), UrbanGlow (Lifestyle), and LaunchNest (Startups).
+- Tiered transparent service packages with direct customer conversion funnels.
+
+---
+
+## 🛠️ Technical Skills Inventory
+
+| Domain | Technologies & Frameworks |
+|---|---|
+| **Languages** | `Java` `Python` `JavaScript (ES6+)` `SQL` `C` |
+| **Frontend** | `React.js` `Vite` `Tailwind CSS` `HTML5` `CSS3` `Bootstrap` |
+| **Backend** | `Node.js` `Express.js` `FastAPI` `RESTful APIs` |
+| **Databases** | `PostgreSQL` `MongoDB` `MySQL` `SQLite` `Firebase` |
+| **AI & LLMs** | `Google Gemini API` `OpenRouter` `Backboard AI` `Ollama (Local LLMs)` `Whisper` `KaTeX` |
+| **Cybersecurity** | `OWASP Top 10` `SQLi Testing` `Reflected XSS` `SSRF` `LFI` `Sandboxed Safety Policies` |
+| **Cloud & DevOps** | `Microsoft Azure (AZ-900)` `AWS Basics` `Docker` `Git` `GitHub` `Postman` `Jira` |
+
+---
+
+## 💼 Industry Experience
+
+### 🏎️ Technical Intern — Silver Star Mercedes-Benz (Raam Groups)
+*Hyderabad, India &nbsp;|&nbsp; June 2023 – November 2023*
+- Designed and maintained automated technical battery-health diagnostic reporting workflows for approximately **3,000 luxury vehicles**.
+- Created Google Sheets / Apps Script data workflows for vehicle diagnostic intake and service lifecycle tracking.
+- Achieved an estimated **25% improvement in diagnostic tracking reliability** and report turnaround time.
+
+### 🛡️ Technology Intern — Supraja Technologies
+*Hyderabad, India &nbsp;|&nbsp; 2024*
+- Completed hands-on modules in network scanning methodologies, application security concepts, and software verification protocols.
+- Submitted comprehensive technical architecture blueprints and experiment documentation.
+
+---
+
+## 🎓 Academic Credentials
+
+- **B.Tech in Information Technology**  
+  *Vignana Bharathi Institute of Technology (VBIT), Hyderabad* &nbsp;|&nbsp; **2023 – 2027 (Final Year)**  
+  **CGPA**: `8.15 / 10`  
+  *Joined through lateral entry after completing Diploma with distinction.*
+
+- **Diploma in Automobile Engineering**  
+  *Government Polytechnic College, Masab Tank, Hyderabad* &nbsp;|&nbsp; **2021 – 2024**  
+  **CGPA**: `8.20 / 10`  
+  *Completed with distinction; strong foundation in diagnostic engineering, mechanical systems, and applied mathematics.*
+
+---
+
+## 📬 Let's Connect
+
+I am actively open to discussing software engineering internships, full-time SDE roles, full-stack development, applied AI engineering, and cybersecurity positions.
+
 - **Email**: [shettysaikumar20@gmail.com](mailto:shettysaikumar20@gmail.com)
 - **LinkedIn**: [linkedin.com/in/shetty-sai-kumar](https://www.linkedin.com/in/shetty-sai-kumar/)
 - **GitHub**: [github.com/shettysaikumar20](https://github.com/shettysaikumar20)
+- **Live Portfolio Website**: [shettysaikumar20.github.io/Portfolio](https://shettysaikumar20.github.io/Portfolio/)
+
+---
+
+<div align="center">
+  <sub>Designed & engineered by <b>Sai Kumar Shetty</b> · Powered by React 19, Vite, Tailwind CSS & GitHub Pages</sub>
+</div>

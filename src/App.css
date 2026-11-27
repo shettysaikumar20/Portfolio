@@ -1,0 +1,10 @@
+/* App specific styling */
+@media print {
+  body {
+    background: white !important;
+    color: black !important;
+  }
+  header, footer, section:not(#resume-print-target), .no-print {
+    display: none !important;
+  }
+}
